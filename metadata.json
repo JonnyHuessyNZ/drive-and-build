@@ -1,0 +1,7 @@
+{
+  "name": "Drive & Build Assistant",
+  "description": "A hands-free, voice-first conversational assistant powered by Gemini Live API to help you brainstorm and define requirements while driving.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
